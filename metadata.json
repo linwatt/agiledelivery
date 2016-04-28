@@ -111,6 +111,84 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false
+  },
+  {
+   "id": "af6ff07d-6670-d16a-ce88-904ed677ce5",
+   "title": "Scrum at RIIS",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Scrum-at-RIIS-af6f.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "4e40e573-2d06-3064-a004-d68b86049eb4",
+   "title": "Artifacts",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Artifacts-4e40.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8e3455d8-7edc-540c-19b9-67e26e392ba",
+   "title": "Artifacts Continued",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Artifacts-Continued-8e34.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "23fcd6e6-3b8-bf90-f9f5-aaf18b28fb2d",
+   "title": "Ceremonies",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Ceremonies-23fc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6d99867f-4e2d-a98c-e58c-c643373de09",
+   "title": "Ceremonies Continued",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Ceremonies-Continued-6d99.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "97fcb119-f7a4-9634-b2d6-751914e8846b",
+   "title": "Ceremonies Continued",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Ceremonies-Continued-97fc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9577983f-2649-b854-c93f-23dfd7323475",
+   "title": "Roles",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Roles-9577.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "light",
